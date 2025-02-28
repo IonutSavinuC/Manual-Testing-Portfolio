@@ -19,5 +19,5 @@ A collection of test cases, bug reports, and user stories I wrote in Jira and Qa
 1. **Clone the repository**  
    Start by cloning this repository to your local machine to view and work with the files.  
    ```bash
-   git clone https://github.com/your-username/QA-Manual-Testing.git
+   git clone https://github.com/IonutSavinuC/QA-Manual-Testing.git
 
