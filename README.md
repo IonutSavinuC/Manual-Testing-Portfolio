@@ -16,4 +16,4 @@
 1. **Clone the repository**  
    Start by cloning this repository to your local machine to view and work with the files.  
    ```bash
-   git clone https://github.com/IonutSavinuC/QA-Manual-Testing.git
+   git clone https://github.com/IonutSavinuC/Manual-Testing-Portfolio.git
